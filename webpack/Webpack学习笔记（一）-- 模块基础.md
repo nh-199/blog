@@ -1440,8 +1440,3 @@ ESM的开发所需的基础设施也还未完全成熟，使用像Webpack之类�
 > * [The Evolution of JavaScript Modularity](https://github.com/myshov/history-of-javascript/tree/master/4_evolution_of_js_modularity)
 > * [Javascript语言的历史](https://javascript.ruanyifeng.com/introduction/history.html)
 > * [前端开发的历史和趋势](https://github.com/ruanyf/jstraining/blob/master/docs/history.md)
-
-* 基础用法：常见概念，资源解析，文件压缩，文件指纹，热更新等
-* 进阶用法：tree shaking，代码分割，Source Map等
-* 优化用法：并行压缩，多实例构建，使用webpack缓存，公共资源分包，动态polyfill等
-* 原理解析：源码了解webpack打包原理、编写Loader和Plugin
