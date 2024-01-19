@@ -1441,10 +1441,6 @@ ESM的开发所需的基础设施也还未完全成熟，使用像Webpack之类�
 > * [Javascript语言的历史](https://javascript.ruanyifeng.com/introduction/history.html)
 > * [前端开发的历史和趋势](https://github.com/ruanyf/jstraining/blob/master/docs/history.md)
 
-# **后续文章内容**
-
-后续文章中，我们将逐步介绍webpack的核心概念和开发必备技巧，帮助大家了解webpack的配置构建、优化策略、内部运行原理及编写自定义Loader和插件。
-
 * 基础用法：常见概念，资源解析，文件压缩，文件指纹，热更新等
 * 进阶用法：tree shaking，代码分割，Source Map等
 * 优化用法：并行压缩，多实例构建，使用webpack缓存，公共资源分包，动态polyfill等
